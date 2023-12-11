@@ -52,6 +52,8 @@ Welcome to the Fullstack Library Management System! This application is a compre
 ![single book page.png](Assets%2Fsingle%20book%20page.png)
 ### Book Review
 ![review.gif](Assets%2Freview.gif)
+### Book Checkout
+![book checkout.gif](Assets%2Fbook%20checkout.gif)
 
 
 ## Future Work
