@@ -38,6 +38,8 @@ Welcome to the Fullstack Library Management System! This application is a compre
 
 ## Demo
 
+### Home Page
+![homepage.png](Assets%2Fhomepage.png)
 
 ## Future Work
 - [ ] Add a feature to allow users to add books to the library
