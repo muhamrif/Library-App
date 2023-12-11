@@ -32,14 +32,27 @@ Welcome to the Fullstack Library Management System! This application is a compre
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
 </div>
 
-## High level design
+## High Level Design
 ![high leve flow.png](Assets%2Fhigh%20leve%20flow.png)
 
-
+## API End Points
+![api.png](Assets%2Fapi.png)
+## Database Design
+### SQL Workbench
+![database.png](Assets%2Fdatabase.png)
+### Books Table
+![dbbooks.png](Assets%2Fdbbooks.png)
 ## Demo
 
 ### Home Page
 ![homepage.png](Assets%2Fhomepage.png)
+### Home Page Carousel
+![carousel.gif](Assets%2Fcarousel.gif)
+### Book Details Page
+![single book page.png](Assets%2Fsingle%20book%20page.png)
+### Book Review
+![review.gif](Assets%2Freview.gif)
+
 
 ## Future Work
 - [ ] Add a feature to allow users to add books to the library
@@ -50,5 +63,11 @@ Welcome to the Fullstack Library Management System! This application is a compre
 ## Development Team
 - [@muhmarif](https://www.github.com/muhamrif)
 ## Feedback
-
 If you have any feedback, please reach out to at muhammad.hamza6415@gmail.com
+## Acknowledgements
+- [Udemy](https://www.udemy.com/course/full-stack-react-and-java-spring-boot-the-developer-guide/)
+- [Okta](https://www.okta.com/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [React](https://reactjs.org/)
